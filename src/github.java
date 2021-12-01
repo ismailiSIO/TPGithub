@@ -2,7 +2,7 @@ public class github {
 
     public static void main(String args[]) {
 
-
+            String ajout;
             int nbr, i;
             nbr = 5;
 
